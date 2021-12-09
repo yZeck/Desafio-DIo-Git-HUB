@@ -1,1 +1,25 @@
+Passo a passo:
+
+Primeiro, baixar o git;
+
+Segundo, fazer uma conta no git hub;
+
+Terceiro, fazer um repositório;
+
+Quarto, mandar o arquivo do repositório para o PC;
+
+Quinto, abrir o git e dar continuidade ao proposito do arquivo;
+
+Sexto, após ter feito as alterações desejadas. Abrir o git e jogar,o arquivo completo, de volta pro repositório;
+
+Alguns códigos usados:
+cd
+git push origin main
+git status
+git add .
+git co
+git commit -m ""
+git clone Https....
+
+Vídeo assistido e estudado:
 Git/github. Acesse:https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/e714fb1c-4990-4c47-99a5-d97703e40b4d
